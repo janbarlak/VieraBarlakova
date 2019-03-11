@@ -1,0 +1,24 @@
+.footer {
+	padding: 8px;
+}
+
+#foto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40%
+  /*width: 40%;*/
+}
+
+#fav>img {
+  /*display: block;*/
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+	  position: relative;
+	  top:10px;  
+}
+
+
+
+
